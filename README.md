@@ -22,7 +22,7 @@ To use navigation in your WPF application you'll need to:
 ![image](https://github.com/NikoMaersk/CSharp-MVVMTemplate/assets/114466889/3b902e34-f1f8-4f05-9fe7-3a882de2701a)
 
 ## Set initial View
-You can specify the initial View, by changing the ChangeUserControl function call in MainWindow.xaml.cs to your ViewModel.
+You can specify the initial View, by modifying the ChangeUserControl function call in MainWindow.xaml.cs to your ViewModel.
 
 ![image](https://github.com/NikoMaersk/CSharp-MVVMTemplate/assets/114466889/8e1c9ed6-2311-4efc-a8f1-fd75aabc5f2b)
 
