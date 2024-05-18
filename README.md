@@ -4,7 +4,7 @@
 - Navigation Service
 - ViewModelBase with implementation of INotifyPropertyChanged
 - Implementation of ICommand
-- Style.xaml for styling in the Views
+- Style.xaml for styling in your Views
 
 ## Navigation
 To use navigation in your WPF application you'll need to:
